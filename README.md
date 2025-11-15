@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Arianna Siniscalchi!
+# 👋 Hi, I am Arianna Siniscalchi!
 
 ### 🚀 Frontend & Mobile Developer
 Passionate about iOS, Android development and modern web technologies.
