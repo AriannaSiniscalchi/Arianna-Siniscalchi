@@ -12,6 +12,13 @@ Passionate about iOS, Android development and modern web technologies.
 - **Degree Program:** Computer Science
 - **Current Year:** First Year
 
+### 🏫 University Organization
+📚 **Explore my academic projects organized by year:**
+[🔗 UniBG-Computer-Science]([https://github.com/nome-organization](https://github.com/UniBG-Computer-Science))
+
+#### **Projects by Academic Year:**
+- **🎓 First Year (2025-2026)** - Programming Basics
+
 ### 📫 Contact
 - 📧 Email: [siniscalchi.arianna@gmail.com]
 
