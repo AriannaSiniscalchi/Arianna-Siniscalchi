@@ -19,6 +19,9 @@ Passionate about iOS, Android development and modern web technologies.
 #### **Projects by Academic Year:**
 - **🎓 First Year (2025-2026)** - Programming Basics
 
+#### **Featured Academic Projects:**
+- [🌡️ Temperature Converter](https://github.com/UniBG-Computer-Science/temperature-converter) - C++ program with input validation
+
 ### 📫 Contact
 - 📧 Email: [siniscalchi.arianna@gmail.com]
 
