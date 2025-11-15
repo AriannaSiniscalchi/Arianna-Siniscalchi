@@ -1,18 +1,20 @@
 # 👋 Ciao, sono Arianna Siniscalchi!
 
-### 🚀 Sviluppatrice Frontend & Mobile
-Appassionata di sviluppo iOS, Android e tecnologie web moderne.
+### 🚀 Frontend & Mobile Developer
+Passionate about iOS, Android development and modern web technologies.
 
-### 💼 Competenze Tecniche
-- **Mobile:** iOS (Swift), Android (Kotlin)
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Strumenti:** Git, GitHub, Xcode, Android Studio
+### 💼 Technical Skills
+- **Frontend:** C++, JavaScript, HTML, Phyton
+- **Tools:** GitHub
 
-### 📱 Progetti in Evidenza
-- 
-### 📫 Contatti
-- 💼 LinkedIn: [Arianna Siniscalchi](https://linkedin.com/in/arianna-siniscalchi)
+### 🎓 Education
+- **University:** University of Bergamo
+- **Degree Program:** Computer Science
+- **Current Year:** First Year
+
+### 📫 Contact
+- 📧 Email: [siniscalchi.arianna@gmail.com]
 
 ---
 
-⭐ **Fun Fact:** Amo creare esperienze utente intuitive e responsive!
+⭐ **Fun Fact:** I love creating intuitive and responsive user experiences!
