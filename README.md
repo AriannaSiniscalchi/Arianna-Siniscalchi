@@ -20,7 +20,7 @@ Passionate about iOS, Android development and modern web technologies.
 - **🎓 First Year (2025-2026)** - Programming Basics
 
 #### **Featured Academic Projects:**
-- ** First year **:
+- **First year**:
   - **[🌡️ Temperature Converter](https://github.com/UniBG-Computer-Science/temperature-converter)** - C++ program with comprehensive input validation
   - **[🧮 Calculator](https://github.com/UniBG-Computer-Science/calculator)** - C++ menu-driven calculator with input validation
 
