@@ -17,7 +17,7 @@ Appassionata di sviluppo iOS, Android e tecnologie web moderne.
 - [Discord](https://github.com/Arianna-Siniscalchi/Discord) - Clone Discord
 
 ### 📫 Contatti
-- 💼 LinkedIn: [Arianna Siniscalchi](https://linkedin.com/in/arianna-siniscalchi)
+- 📧 Email: [siniscalchi.arianna@gmail.com]
 
 ---
 
