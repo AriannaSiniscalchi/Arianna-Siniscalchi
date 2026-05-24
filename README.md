@@ -7,7 +7,7 @@ Passionate about iOS, Android development, and modern web technologies.
 
 ### 💼 Technical Skills
 
-* **Programming Languages:** C++, JavaScript, Python, MIPS Assembly
+* **Programming Languages:** C++, Java, JavaScript, Python, MIPS Assembly
 * **Web Technologies:** HTML5, CSS3
 * **Tools & Platforms:** Git, GitHub
 
@@ -27,13 +27,20 @@ Passionate about iOS, Android development, and modern web technologies.
 * 🔗 [UniBG-Computer-Science](https://github.com/UniBG-Computer-Science)
 
 #### Projects by Academic Year:
-* 🎓 **First Year (2025-2026)** - Programming Basics & Computer Architecture
+* 🎓 **First Year (2025-2026)** - Core Programming, Object-Oriented Development & Architecture
 
 #### Featured Academic Projects:
-* **First year:**
+
+##### 📅 First Semestre (Fall/Winter)
+* **🟦 C++ Foundations (Procedural Programming)**
   * 🌡️ [Temperature Converter](https://github.com/UniBG-Computer-Science/temperature-converter) - C++ program with comprehensive input validation.
   * 🧮 [Calculator](https://github.com/UniBG-Computer-Science/calculator) - C++ menu-driven calculator with input validation.
-  * ⚙️ [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) - Assembly programs demonstrating low-level data manipulation and register management.
+
+##### 📅 Second Semestre (Spring/Summer)
+* **☕ Java (Object-Oriented Programming)**
+  * 🏗️ [Academic OOP Projects](https://github.com/UniBG-Computer-Science) - Applications focused on inheritance, polymorphism, and software design.
+* **⚙️ MIPS Assembly (Low-Level Architecture)**
+  * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) - Assembly programs showcasing low-level data manipulation and recursion (e.g., Fibonacci, Factorial).
 
 ---
 
