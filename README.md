@@ -23,22 +23,23 @@ Passionate about iOS, Android development, and modern web technologies.
 
 ### 🏫 University Organization
 
-🗺️ Explore my academic projects organized by year: [UniBG-Computer-Science](#)
+📚 **Explore my academic projects organized by year:**
+* 🔗 [UniBG-Computer-Science](https://github.com/UniBG-Computer-Science)
 
 #### Projects by Academic Year:
 * 🎓 **First Year (2025-2026)** - Programming Basics
 
 #### Featured Academic Projects:
 * **First year:**
-    * 🧪 [Temperature Converter](#) - C++ program with comprehensive input validation.
-    * 🧮 [Calculator](#) - C++ menu-driven calculator with input validation.
+  * 🌡️ [Temperature Converter](https://github.com/UniBG-Computer-Science/temperature-converter) - C++ program with comprehensive input validation.
+  * 🧮 [Calculator](https://github.com/UniBG-Computer-Science/calculator) - C++ menu-driven calculator with input validation.
 
 ---
 
-### 📬 Contact
+### 📫 Contact
 
 * 📧 Email: [siniscalchi.arianna@gmail.com](mailto:siniscalchi.arianna@gmail.com)
 
 ---
 
-⭐️ **Fun Fact:** I love creating intuitive and responsive user experiences!
+⭐ **Fun Fact:** I love creating intuitive and responsive user experiences!
