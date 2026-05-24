@@ -33,8 +33,7 @@ Passionate about iOS, Android development, and modern web technologies.
 
 ##### 📅 First Semestre (Fall/Winter)
 * **🟦 C++ Foundations (Procedural Programming)**
-  * 🌡️ [Temperature Converter](https://github.com/UniBG-Computer-Science/temperature-converter) - C++ program with comprehensive input validation.
-  * 🧮 [Calculator](https://github.com/UniBG-Computer-Science/calculator) - C++ menu-driven calculator with input validation.
+  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) - Academic applications focusing on algorithmic logic, menu-driven structures, and strict input validation.
 
 ##### 📅 Second Semestre (Spring/Summer)
 * **☕ Java (Object-Oriented Programming)**
