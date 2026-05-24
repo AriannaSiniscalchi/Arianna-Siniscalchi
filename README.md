@@ -4,7 +4,7 @@
 Passionate about iOS, Android development and modern web technologies.
 
 ### 💼 Technical Skills
-- **Frontend:** C++, JavaScript, HTML, Phyton
+- **Frontend:** C++, JavaScript, HTML, 
 - **Tools:** GitHub
 
 ### 🎓 Education
