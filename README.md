@@ -33,7 +33,7 @@ Passionate about iOS, Android development, and modern web technologies.
 * **First year:**
   * 🌡️ [Temperature Converter](https://github.com/UniBG-Computer-Science/temperature-converter) - C++ program with comprehensive input validation.
   * 🧮 [Calculator](https://github.com/UniBG-Computer-Science/calculator) - C++ menu-driven calculator with input validation.
-  * ⚙️ [MIPS Architecture Projects](https://github.com/UniBG-Computer-Science) - Assembly programs demonstrating low-level data manipulation and register management.
+  * ⚙️ [MIPS Architecture Projects]([https://github.com/UniBG-Computer-Science](https://github.com/AriannaSiniscalchi/mips-architecture-projects)) - Assembly programs demonstrating low-level data manipulation and register management.
 
 ---
 
