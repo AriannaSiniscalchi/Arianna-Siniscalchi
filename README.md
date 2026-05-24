@@ -37,7 +37,7 @@ Passionate about iOS, Android development, and modern web technologies.
 
 ##### 📅 Second Semestre (Spring/Summer)
 * **☕ Java (Object-Oriented Programming)**
-  * 🏗️ [Academic OOP Projects](https://github.com/UniBG-Computer-Science) - Applications focused on inheritance, polymorphism, and software design.
+  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) - Applications focused on Object-Oriented Software Design, software architecture, inheritance, and polymorphism.
 * **⚙️ MIPS Assembly (Low-Level Architecture)**
   * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) - Assembly programs showcasing low-level data manipulation and recursion (e.g., Fibonacci, Factorial).
 
