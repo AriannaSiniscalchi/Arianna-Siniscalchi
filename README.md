@@ -7,8 +7,7 @@ Passionate about iOS, Android development, and modern web technologies.
 
 ### 💼 Technical Skills
 
-* **Programming Languages:** C++, Java, JavaScript, Python, MIPS Assembly
-* **Web Technologies:** HTML5, CSS3
+* **Programming Languages:** C++, Java, JavaScript, MIPS Assembly
 * **Tools & Platforms:** Git, GitHub
 
 ---
