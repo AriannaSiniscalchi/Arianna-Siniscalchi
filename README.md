@@ -22,9 +22,6 @@ Passionate about iOS, Android development, and modern web technologies.
 
 ### 🏫 University Organization
 
-📚 **Explore my academic projects organized by year:**
-* 🔗 [UniBG-Computer-Science](https://github.com/UniBG-Computer-Science)
-
 #### Projects by Academic Year:
 * 🎓 **First Year (2025-2026)** - Core Programming, Object-Oriented Development & Architecture
 
