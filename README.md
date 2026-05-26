@@ -27,13 +27,15 @@ Passionate about iOS, Android development, and modern web technologies.
 
 #### Featured Academic Projects:
 
-##### 📅 First Semestre (Fall/Winter)
-* **🟦 C++ Foundations (Procedural Programming)**
-  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) - Academic applications focusing on algorithmic logic, menu-driven structures, and strict input validation.
+#### First Year:
 
-##### 📅 Second Semestre (Spring/Summer)
-* **☕ Java (Object-Oriented Programming)**
-  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) - Applications focused on Object-Oriented Software Design, software architecture, inheritance, and polymorphism.
+* ##### 📅 First Semestre (Fall/Winter)
+ * **🟦 C++ Foundations (Procedural Programming)**
+   * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) - Academic applications focusing on algorithmic logic, menu-driven structures, and strict input validation.
+
+* ##### 📅 Second Semestre (Spring/Summer)
+ * **☕ Java (Object-Oriented Programming)**
+   * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) - Applications focused on Object-Oriented Software Design, software architecture, inheritance, and polymorphism.
 * **⚙️ MIPS Assembly (Low-Level Architecture)**
   * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) - Assembly programs showcasing low-level data manipulation and recursion (e.g., Fibonacci, Factorial).
 
