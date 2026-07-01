@@ -1,50 +1,46 @@
 # Arianna Siniscalchi
-**Computer Engineering Student** • *University of Bergamo (UniBG)* 📧 [siniscalchi.arianna@gmail.com](mailto:siniscalchi.arianna@gmail.com)
+*Computer Engineering Student @ University of Bergamo*
+
+[![Email](https://img.shields.io/badge/Connect-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siniscalchi.arianna@gmail.com)
 
 ---
 
 ### 💻 About Me
-> I am a first-year Computer Engineering undergraduate driven by a passion for frontend architectures and mobile development (iOS & Android). I focus on writing clean, scalable, and well-documented software while deeply exploring low-level systems and object-oriented principles.
+> I'm a first-year undergraduate Computer Engineering student focusing on building a rock-solid foundation in procedural and object-oriented software design. I love bridging the gap between rigorous backend infrastructure and intuitive, responsive user experiences (UI/UX). My ultimate passion lies in frontend architectures and mobile development.
 
 ---
 
-### 💼 Technical Expertise
+### 🛠️ Technical Stack
 
-| Category | Competencies |
+| | Technologies |
 | :--- | :--- |
-| **Core Languages** | `C++` • `Java` • `JavaScript` |
-| **Low-Level Architecture** | `MIPS Assembly` |
-| **Version Control & Workflow** | `Git` • `GitHub` |
+| **Core Languages** | ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat-square) ![Java](https://img.shields.io/badge/-Java-000?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square) |
+| **Low-Level** | ![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-000?style=flat-square) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-000?style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square) |
 
 ---
 
-### 🎓 Academic Journey & Education
+### 🎓 Academic Path
 
-* **Institution:** University of Bergamo (UniBG) — *Dalmine Campus*
-* **Degree:** Bachelor of Engineering (B.Eng.) in Computer Engineering
-* **Timeline:** October 2025 – Present *(Expected Graduation: 2028)*
-
----
-
-### 🏫 Academic Repositories & Coursework
-
-This matrix maps my academic progression, core laboratory assignments, and implementation frameworks across my degree program.
-
-#### 📂 B.Eng. | Year 1 (Academic Year 2025 - 2026)
-*Focus: Procedural Logic, Object-Oriented Software Design, Hardware-Software Interface.*
-
-##### 📅 Semester I (Fall / Winter)
-* **Procedural Programming Foundations (`C++`)**
-  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) — Implementations focusing on algorithmic logic, custom data structures, menu-driven interfaces, and deterministic input validation.
-
-##### 📅 Semester II (Spring / Summer)
-* **Object-Oriented Programming (`Java`)**
-  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) — Engineering decoupled software solutions applying robust OOP design patterns, inheritance, polymorphism, abstract interfaces, and comprehensive exception handling.
-* **Computer Architecture & Low-Level Design (`MIPS`)**
-  * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) — Direct processor register manipulation, hardware memory addressing, and execution stack optimization (e.g., implementing recursive mathematical models).
+| Institution | Degree | Location | Timeline |
+| :--- | :--- | :--- | :--- |
+| **University of Bergamo** | B.Eng. Computer Engineering | Dalmine (BG), Italy | 2025 - *Present* (Grad. 2028) |
 
 ---
 
-### 🎯 Core Philosophy
-* **UI/UX Driven:** I bridge the gap between rigorous backend infrastructure and responsive, intuitive user experiences.
-* **Continuous Integration:** I believe in version control best practices, atomic commits, and readable code documentation from day one.
+### 📂 Featured Academic Projects (Year 1)
+
+*This is a dynamic showcase of my core laboratory implementations during my first academic year.*
+
+| Project | Semester | Stack | Key Learnings |
+| :--- | :--- | :--- | :--- |
+| 💻 [**C++ Core Programming**](https://github.com/AriannaSiniscalchi/cpp-core-programming) | Sem. I | `C++` | Algorithmic logic, procedural design, input validation. |
+| 🚀 [**Java OOP Projects**](https://github.com/AriannaSiniscalchi/java-programming-foundations) | Sem. II | `Java` | Object-Oriented Software Design, inheritance, polymorphism. |
+| 💾 [**MIPS Architecture**](https://github.com/AriannaSiniscalchi/mips-architecture-projects) | Sem. II | `MIPS` | Low-level memory addressing, stack optimization, recursion. |
+
+---
+
+### 🎯 Professional Ethos
+- **Code Clarity:** Always striving for readable, scalable, and well-documented software.
+- **UI/UX Obsessed:** I design with the user in mind, ensuring interfaces are not just functional, but engaging.
+- **Continuous Learning:** I treat my academic studies as the starting line; I am actively exploring modern frameworks beyond the curriculum.
