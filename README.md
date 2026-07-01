@@ -1,7 +1,7 @@
 # Arianna Siniscalchi
 *Computer Engineering Student @ University of Bergamo*
 
-[![Email](https://img.shields.io/badge/Connect-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siniscalchi.arianna@gmail.com)
+📧 **Contact:** siniscalchi.arianna@gmail.com
 
 ---
 
@@ -12,11 +12,11 @@
 
 ### 🛠️ Technical Stack
 
-| | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Core Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) |
-| **Low-Level** | ![MIPS](https://img.shields.io/badge/MIPS%20Assembly-%23000000.svg?style=flat-square) |
-| **Workflow** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
+| **🟢 Core Languages** | `C++` • `Java` • `JavaScript` |
+| **🔵 Low-Level** | `MIPS Assembly` |
+| **🟠 Workflow** | `Git` • `GitHub` |
 
 ---
 
