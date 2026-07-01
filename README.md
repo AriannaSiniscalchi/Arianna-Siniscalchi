@@ -1,50 +1,50 @@
-# 👋 Hi, I am Arianna Siniscalchi!
-
-> ### 🚀 Frontend & Mobile Developer
-> Passionate about iOS, Android development, and modern web technologies.
+# Arianna Siniscalchi
+**Computer Engineering Student** • *University of Bergamo (UniBG)* 📧 [siniscalchi.arianna@gmail.com](mailto:siniscalchi.arianna@gmail.com)
 
 ---
 
-### 💼 Technical Skills
+### 💻 About Me
+> I am a first-year Computer Engineering undergraduate driven by a passion for frontend architectures and mobile development (iOS & Android). I focus on writing clean, scalable, and well-documented software while deeply exploring low-level systems and object-oriented principles.
 
-| Category | Technologies |
+---
+
+### 💼 Technical Expertise
+
+| Category | Competencies |
 | :--- | :--- |
-| **Programming Languages** | `C++` • `Java` • `JavaScript` • `MIPS Assembly` |
-| **Tools & Platforms** | `Git` • `GitHub` |
+| **Core Languages** | `C++` • `Java` • `JavaScript` |
+| **Low-Level Architecture** | `MIPS Assembly` |
+| **Version Control & Workflow** | `Git` • `GitHub` |
 
 ---
 
-### 🎓 Education
+### 🎓 Academic Journey & Education
 
-* **🏫 University:** University of Bergamo (UniBG) — *Dalmine Campus*
-* **📜 Degree Program:** Computer Engineering (B.Eng.)
-* **📅 Current Status:** 1st Year Student (Academic Year 2025-2026)
-
----
-
-### 🏫 University Organization
-
-*Here you can find all my academic coursework and laboratory projects, structured by year and semester to easily track my learning progress.*
-
-### 🎓 First Year (2025-2026)
-> *Focus: Core Programming Foundations, Object-Oriented Software Design & Computer Architecture.*
-
-#### 📅 First Semester (Fall/Winter)
-* **🟦 C++ Foundations (Procedural Programming)**
-  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) — Academic applications focusing on algorithmic logic, data structures, menu-driven interfaces, and strict input validation.
-
-#### 📅 Second Semester (Spring/Summer)
-* **☕ Java (Object-Oriented Programming)**
-  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) — Engineering software solutions using robust Object-Oriented Software Design, inheritance, interfaces, polymorphism, and exception handling.
-* **⚙️ MIPS Assembly (Low-Level Architecture)**
-  * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) — Low-level programs showcasing processor register manipulation, memory addressing, and optimization techniques (e.g., recursive functions like Fibonacci and Factorials).
+* **Institution:** University of Bergamo (UniBG) — *Dalmine Campus*
+* **Degree:** Bachelor of Engineering (B.Eng.) in Computer Engineering
+* **Timeline:** October 2025 – Present *(Expected Graduation: 2028)*
 
 ---
 
-### 📫 Contact
+### 🏫 Academic Repositories & Coursework
 
-* 📧 **Email:** [siniscalchi.arianna@gmail.com](mailto:siniscalchi.arianna@gmail.com)
+This matrix maps my academic progression, core laboratory assignments, and implementation frameworks across my degree program.
+
+#### 📂 B.Eng. | Year 1 (Academic Year 2025 - 2026)
+*Focus: Procedural Logic, Object-Oriented Software Design, Hardware-Software Interface.*
+
+##### 📅 Semester I (Fall / Winter)
+* **Procedural Programming Foundations (`C++`)**
+  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) — Implementations focusing on algorithmic logic, custom data structures, menu-driven interfaces, and deterministic input validation.
+
+##### 📅 Semester II (Spring / Summer)
+* **Object-Oriented Programming (`Java`)**
+  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) — Engineering decoupled software solutions applying robust OOP design patterns, inheritance, polymorphism, abstract interfaces, and comprehensive exception handling.
+* **Computer Architecture & Low-Level Design (`MIPS`)**
+  * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) — Direct processor register manipulation, hardware memory addressing, and execution stack optimization (e.g., implementing recursive mathematical models).
 
 ---
 
-⭐ **Fun Fact:** I love creating intuitive and responsive user experiences!
+### 🎯 Core Philosophy
+* **UI/UX Driven:** I bridge the gap between rigorous backend infrastructure and responsive, intuitive user experiences.
+* **Continuous Integration:** I believe in version control best practices, atomic commits, and readable code documentation from day one.
