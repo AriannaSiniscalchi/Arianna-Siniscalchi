@@ -8,14 +8,14 @@ Passionate about iOS, Android development, and modern web technologies.
 ### 💼 Technical Skills
 
 * **Programming Languages:**
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-  ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-%23000000.svg?style=flat-square)
+  ![C++]
+  ![Java]
+  ![JavaScript]
+  ![MIPS Assembly]
 
 * **Tools & Platforms:**
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+  ![Git]
+  ![GitHub]
 
 ---
 
