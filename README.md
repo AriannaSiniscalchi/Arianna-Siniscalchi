@@ -23,26 +23,26 @@ Passionate about iOS, Android development, and modern web technologies.
 
 * 🏫 **University:** University of Bergamo (UniBG) — *Dalmine Campus*
 * 📜 **Degree Program:** Computer Engineering (B.Eng.)
-* 📅 **Current Year:** First Year (2025-2026)
+* 📅 **Current Status:** 1st Year Student (Academic Year 2025-2026)
 
 ---
 
 ### 🏫 University Organization
 
-#### Projects by Academic Year:
-* 🎓 **First Year (2025-2026)** - Core Programming, Object-Oriented Development & Architecture
+Here you can find all my academic coursework and laboratory projects, structured by year and semester to easily track my learning progress.
 
-#### Featured Academic Projects:
+#### 🎓 First Year (2025-2026)
+*Focus: Core Programming Foundations, Object-Oriented Software Design & Computer Architecture.*
 
 ##### 📅 First Semester (Fall/Winter)
 * **🟦 C++ Foundations (Procedural Programming)**
-  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) — Academic applications focusing on algorithmic logic, menu-driven structures, and strict input validation.
+  * 💻 [C++ Core Programming Projects](https://github.com/AriannaSiniscalchi/cpp-core-programming) — Academic applications focusing on algorithmic logic, data structures, menu-driven interfaces, and strict input validation.
 
 ##### 📅 Second Semester (Spring/Summer)
 * **☕ Java (Object-Oriented Programming)**
-  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) — Applications focused on Object-Oriented Software Design, software architecture, inheritance, and polymorphism.
+  * 🚀 [Java OOP Projects](https://github.com/AriannaSiniscalchi/java-programming-foundations) — Engineering software solutions using robust Object-Oriented Software Design, inheritance, interfaces, polymorphism, and exception handling.
 * **⚙️ MIPS Assembly (Low-Level Architecture)**
-  * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) — Assembly programs showcasing low-level data manipulation and recursion (e.g., Fibonacci, Factorial).
+  * 💾 [MIPS Architecture Projects](https://github.com/AriannaSiniscalchi/mips-architecture-projects) — Low-level programs showcasing processor register manipulation, memory addressing, and optimization techniques (e.g., recursive functions like Fibonacci and Factorials).
 
 ---
 
