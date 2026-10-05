@@ -42,7 +42,7 @@
 #### **Year 2**
 | Project / Course | Semester | Stack | Key Learnings / Focus |
 | :--- | :--- | :--- | :--- |
-| 📊 **Statistica** | Sem. I | `Mathematics` / `Statistics` | Probability distributions, data analysis, statistical inference. |
+| 📊 [**Statistics Projects**](https://github.com/AriannaSiniscalchi/statistics-projects) | Sem. I | `Python` / `R` | Probability distributions, data analysis, statistical inference. |
 
 ---
 
