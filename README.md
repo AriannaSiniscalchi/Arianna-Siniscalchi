@@ -6,7 +6,7 @@
 ---
 
 ### 💻 About Me
-> I'm a first-year undergraduate Computer Engineering student focusing on building a rock-solid foundation in procedural and object-oriented software design. I love bridging the gap between rigorous backend infrastructure and intuitive, responsive user experiences (UI/UX). My ultimate passion lies in frontend architectures and mobile development.
+> I'm a second-year undergraduate Computer Engineering student focusing on building a rock-solid foundation in procedural and object-oriented software design. I love bridging the gap between rigorous backend infrastructure and intuitive, responsive user experiences (UI/UX). My ultimate passion lies in frontend architectures and mobile development.
 
 ---
 
@@ -28,15 +28,21 @@
 
 ---
 
-### 📂 Featured Academic Projects (Year 1)
+### 📂 Featured Academic Projects
 
-*This is a dynamic showcase of my core laboratory implementations during my first academic year.*
+*This is a dynamic showcase of my core laboratory implementations throughout my studies.*
 
+#### **Year 1**
 | Project | Semester | Stack | Key Learnings |
 | :--- | :--- | :--- | :--- |
 | 💻 [**C++ Core Programming**](https://github.com/AriannaSiniscalchi/cpp-core-programming) | Sem. I | `C++` | Algorithmic logic, procedural design, input validation. |
 | 🚀 [**Java OOP Projects**](https://github.com/AriannaSiniscalchi/java-programming-foundations) | Sem. II | `Java` | Object-Oriented Software Design, inheritance, polymorphism. |
 | 💾 [**MIPS Architecture**](https://github.com/AriannaSiniscalchi/mips-architecture-projects) | Sem. II | `MIPS` | Low-level memory addressing, stack optimization, recursion. |
+
+#### **Year 2**
+| Project / Course | Semester | Stack | Key Learnings / Focus |
+| :--- | :--- | :--- | :--- |
+| 📊 **Statistica** | Sem. I | `Mathematics` / `Statistics` | Probability distributions, data analysis, statistical inference. |
 
 ---
 
